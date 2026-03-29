@@ -11,7 +11,7 @@ _G.ZapHubSettings = {
     ["AutoTeleportToBestLuckyEventEggArea"] = {Enable = false},
     ["AutoCraftHorseshoeGifts"] = {Enable = true},
     ["AutoCombineLuckyRaidBossKeys"] = {Enable = true},
-    ["AutoCompeleteLuckyRaid"] = {Enable = true,  Speed = 0, TeleportToBreakable = false, MaxLevel = 25000, ChestList = {"Titanic Chest", "Huge Chest", "Loot Chest", "Tier 1000 Chest"}, BossList = {"Tier 100 Boss", "Tier 1000 Boss", "Tier 5000 Boss"}, TurnBossHeroicList = {"Tier 100 Boss", "Tier 1000 Boss"}, TurnBossMythicList = {"Tier 100 Boss", "Tier 1000 Boss"}, TeleportToEgg = false, EggDelay = 5, StayInEventArea = false, EventAreaDelay = 5},
+    ["AutoCompeleteLuckyRaid"] = {Enable = true,  Speed = 0, TeleportToBreakable = false, MaxLevel = 50000, ChestList = {"Titanic Chest", "Huge Chest", "Loot Chest", "Tier 1000 Chest"}, BossList = {"Tier 100 Boss", "Tier 1000 Boss", "Tier 5000 Boss"}, TurnBossHeroicList = {"Tier 100 Boss", "Tier 1000 Boss"}, TurnBossMythicList = {"Tier 100 Boss", "Tier 1000 Boss"}, TeleportToEgg = false, EggDelay = 5, StayInEventArea = false, EventAreaDelay = 5},
     ["AutoBuyLuckyRaidUpgrades"] = {Enable = true, Upgrades = {"Lucky Raid Titanic Chest", "Lucky Raid Boss Huge Chances", "Lucky Raid Boss Titanic Chances"}},
     ["AutoUseLuckyRaidDamageBooster"] = {Enable = true, DamageBooster = {"Tier 1", "Tier 2"}},
     ["AutoUseLuckyRaidXPBooster"] = {Enable = true, XPBoosters = {"Tier 1", "Tier 2"}},
