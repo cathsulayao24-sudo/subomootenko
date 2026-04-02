@@ -17,7 +17,7 @@ _G.ZapHubSettings = {
     ["AutoUseLuckyRaidXPBooster"] = {Enable = true, XPBoosters = {"Tier 1", "Tier 2"}},
     ["AutoUseInstantLuckyRaidXPBoosters"] = {Enable = false, InstantXPBoosters = {"Tier 1", "Tier 2"}},
     ["AutoNewGargantuanPets"] = {Enable = true, Webhook = ""},
-    ["AutoNewTitanicPets"] = {Enable = true, Webhook = ""},
+    ["AutoNewTitanicPets"] = {Enable = true, Webhook = "https://discord.com/api/webhooks/1489300969928917223/jbRb-ijUNOIXTTpDsawN1XTNHqYDeFxkdgv2WdqEqE8mY0F9HQ_51RA9wMD7SZ1-tuPa"},
     ["AutoNewHugePets"] = {Enable = true, Webhook = ""},
     ["AutoNewExclusivePets"] = {Enable = true, Webhook = ""},
     ["AutoInfinitePetSpeed"] = {Enable = true},
