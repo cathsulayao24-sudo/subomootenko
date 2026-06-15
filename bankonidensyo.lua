@@ -2,16 +2,16 @@
 _G.ZapHubSettings = {
     ["NewPetsTracker"] = {Enable = true, WebhookURL = "https://discord.com/api/webhooks/1489300969928917223/jbRb-ijUNOIXTTpDsawN1XTNHqYDeFxkdgv2WdqEqE8mY0F9HQ_51RA9wMD7SZ1-tuPa", PetTypes = {"Gargantuan", "Titanic"}},
 
-    ["Optimization"] = {Enable = true},
+    ["Optimization"] = {Enable = false},
 
     ["ExploreBackrooms"] = {Enable = true, Speed = 800},
-    ["HatchNearestBackroomsEgg"] = {Enable = true},
+    ["HatchNearestBackroomsEgg"] = {Enable = false},
     ["ClaimBackroomsRandomRewards"] = {Enable = true},
     ["ForgeBackroomsKey"] = {Enable = true},
     ["CompleteBackroomsBossFight"] = {Enable = true, UseDeepKey = true},
     ["FarmBackroomsKeys"] = {Enable = false, FarmThreshold = 1, ReturnThreshold = 3},
     ["FarmBackroomsCoins"] = {Enable = false, FarmThreshold = 500000, ReturnThreshold = 1500000},
-    ["TeleportToBestBackroomsEgg"] = {Enable = true, MinimumMultiplier = 1},
+    ["TeleportToBestBackroomsEgg"] = {Enable = false, MinimumMultiplier = 1},
     ["BreakBackroomsChestRoom"] = {Enable = true, Rooms = {"DeepChestRoom1"}},
     ["TeleportToBestBackroomsBreakableRoom"] = {Enable = false},
     ["CombineBackroomsCrayonKeys"] = {Enable = true, Keys = {"Backrooms Crayon Key", "Deep Backrooms Crayon Key"}},
